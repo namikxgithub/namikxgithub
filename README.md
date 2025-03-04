@@ -23,14 +23,14 @@ I'm a **Robotics Engineer** passionate about building intelligent robotic system
 
 ### 📌 Featured Projects:
 - 🏎 **Low-Cost Autonomous Mobile Robot (AMR)** - Built a modular AMR with Raspberry Pi 4 and ESP32 for plug-and-play navigation capabilities.
-- 🦾 **6-DOF Robotic Arm** - Designed a pick-and-place manipulator with custom cycloidal gearboxes.
-- 🛩 **Drone Dust Simulation** - Created a Gazebo plugin for simulating drone dust dispersion using ROS2.
+- 🦾 **6-DOF Robotic Arm** - Designed a pick-and-place manipulator with custom cycloidal gearboxes with surface detection and normal estimation.
+- 🛩 **Space ROS Gazebo Plugins** - Created a Gazebo plugins for simulation various enviromental changes for extraterrestrial environments.
 - 🏗 **ROS2 MoveIt Integration** - Worked on a robotic manipulator grasping interface using MoveIt2 and AWS IoT.
 
 
 ### 📫 Get in Touch:
 - 💼 [LinkedIn](https://www.linkedin.com/in/naman-malik-495664133/)  
-- 📂 [Portfolio](https://namikxgithub.github.io/) (Add link if available)
+- 📂 [Portfolio](https://namikxgithub.github.io/)
 - 📧 Email: namanmalik0210@gmail.com
 - 💬 Let's talk robotics! Open to collaborations and discussions. Drop me a message!
 
